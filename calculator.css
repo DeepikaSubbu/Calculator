@@ -1,0 +1,70 @@
+body{
+   
+    
+   
+    background-color: rgb(35, 194, 120);
+}
+input{
+    width: 7.8em;
+}
+.bb{
+   margin-left: 20em;
+   font-size: 30px;
+   border: 2px solid black;
+   width: 8em;
+}
+button{
+    padding:10px
+}
+
+#dot{
+    width:50px
+}
+#num8{
+    width: 60px;
+}
+#clear1{
+    width: 60px;
+}
+#num5{
+    width: 60px;
+}
+
+.num2{
+    width: 60px;
+}
+#equal{
+    width: 110px;
+}
+#multiply{
+    margin-left: -60px;
+    width: 50px;
+
+}
+#subtract{
+    margin-left: -60px;
+    width: 50px;
+}
+    #add{
+        margin-left: -60px;
+        width: 50px;
+    
+    }
+
+    #div{
+        margin-left: -60px;
+        width: 50px;
+    
+    }
+    #num9{
+        width: 50px;
+    }
+    #num6{
+        width: 50px;
+    }
+    .num3{
+        width: 50px;
+    }
+    .num1{
+        width: 40px;
+    }
